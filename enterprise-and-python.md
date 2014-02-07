@@ -16,6 +16,8 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 ## Django
 
 * Savoir-Faire Linux
+* Hookt Studio
+* APTGeek
 
 ## OpenERP
 
@@ -27,4 +29,4 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Other
 
-...
+* Avencall
