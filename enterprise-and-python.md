@@ -17,13 +17,21 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 * Savoir-Faire Linux
 * Hookt Studio
-* APTGeek
+* Reveal-ad.com
 
 ## OpenERP
 
 * Savoir-faire Linux
 
 ## Openstack
+
+...
+
+## Google App Engine
+
+* Reveal-ad.com
+
+## Science (Numpy, MatPlotLib, etc...)
 
 ...
 
