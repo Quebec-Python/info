@@ -1,70 +1,30 @@
-Qui fait du Python à Montréal ?
+Qui fait du Python à Québec ?
 ===============================
 
 Présentation
 ------------
-Voici la liste des entreprises qui font du Python à Montréal. Si votre entreprise fait du Python et n'y est pas présente, veuillez nous proposer un "pull-request".
+Voici la liste des entreprises qui font du Python à Québec. Si votre entreprise fait du Python et n'y est pas présente, veuillez nous proposer un "pull-request".
 
-Here are the enterprise who are using Python in Montreal.
+Here are the enterprise who are using Python in Québec City.
 
 Please, just fork the repos and propose a pull request if you would like to fix something or add someone.
 
 ## Pyramid + Pylons
 
-* Ajah
-* BitCredits.io
-* Ludia
-* Real Fan Blast
-* Service régional d'admission du montréal métropolitain (SRAM)
-* Tata Communications
-* Ubity
+...
 
 ## Django
 
-* Agence universitaire de la francophonie (AUF)
-* Archambault
-* Auto123
-* Bunch
-* Caravan.coop
-* Ecometrica
-* Nurun
-* Office National du Film
-* Reptiletech
 * Savoir-Faire Linux
-* w.illi.am/
-* Wajam
+
+## OpenERP
+
+* Savoir-faire Linux
 
 ## Openstack
 
-* eNovance
-* iWeb
+...
 
 ## Other
 
-* Brandicted
-* BullBear
-* busbud
-* Canonical
-* Datacratic
-* DTI Software inc.
-* Eightysix Labs
-* Environnment Canada - Service météorologique
-* Gameloft
-* Google
-* Idilia
-* Imagination for People
-* Océan itératif / Iterative Ocean
-* Mantika inc.
-* ModusFX
-* Motsai Research / Recherche Motsai
-* NeuroRx
-* Nuance Communications
-* Outbox Technology
-* Photonic Knowledge
-* Pivotal Payments
-* Plotly
-* Radialpoint
-* Shotgun Software
-* Société des arts technologiques
-* Tata Communications
-* Ubisoft
+...
