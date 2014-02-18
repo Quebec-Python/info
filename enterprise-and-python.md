@@ -18,6 +18,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * Savoir-Faire Linux
 * Hookt Studio
 * Reveal-ad.com
+* [Moving Picture Companies](http://www.moving-picture.com/)
 
 ## OpenERP
 
@@ -38,3 +39,13 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 ## Other
 
 * Avencall
+* [Autodesk](http://www.autodesk.com/)
+* [Digital Dimension](http://www.digitaldimension.com/)
+* [Framestore](http://www.framestore-cfc.com)
+* [Gameloft](http://www.gameloft.fr/)
+* [Mikros Image](http://www.mikrosimage.ca/)
+* [Mokko Studio](http://www.mokkostudio.com/)
+* [Moving Picture Companies](http://www.moving-picture.com/)
+* [Rodeo FX](http://www.rodeofx.com/)
+* [Vision Globale](http://www.visionglobale.com/)
+* 
