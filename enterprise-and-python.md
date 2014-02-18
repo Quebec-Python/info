@@ -15,13 +15,13 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Django
 
-* Savoir-Faire Linux
-* Hookt Studio
-* Reveal-ad.com
+* [Savoir-Faire Linux](http://www.savoirfairelinux.com)
+* [Hookt Studio](http://hooktstudios.com/)
+* [Reveal-ad.com](http://reveal-ad.com/)
 
 ## OpenERP
 
-* Savoir-faire Linux
+* [Savoir-Faire Linux](http://www.savoirfairelinux.com)
 
 ## Openstack
 
@@ -29,7 +29,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Google App Engine
 
-* Reveal-ad.com
+* [Reveal-ad.com](http://reveal-ad.com/)
 
 ## Science (Numpy, MatPlotLib, etc...)
 
@@ -37,4 +37,4 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Other
 
-* Avencall
+* [Avencall](http://www.avencall.com/qc/)
