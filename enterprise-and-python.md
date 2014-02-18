@@ -1,5 +1,5 @@
-Qui fait du Python à Québec ?
-===============================
+Qui utilisent Python dans la ville de Québec ?
+==============================================
 
 Présentation
 ------------
