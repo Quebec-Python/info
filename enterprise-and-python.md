@@ -3,7 +3,7 @@ Qui fait du Python à Québec ?
 
 Présentation
 ------------
-Voici la liste des entreprises qui font du Python à Québec. Si votre entreprise fait du Python et n'y est pas présente, veuillez nous proposer un "pull-request".
+Voici la liste des entreprises qui utilisent Python dans la ville de Québec. Si votre entreprise fait du Python et n'y est pas présente, veuillez nous proposer un "pull-request".
 
 Here are the enterprise who are using Python in Québec City.
 
