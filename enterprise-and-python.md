@@ -14,8 +14,6 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Savoir-Faire Linux](http://www.savoirfairelinux.com)
 * [Hookt Studio](http://hooktstudios.com/)
 * [Libéo](http://libeo.com/)
-* [W.illi.am](http://w.illi.am/fr/)
-* [TP1](http://www.tp1.ca/)
 
 ## Odoo
 
