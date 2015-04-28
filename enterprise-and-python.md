@@ -1,4 +1,4 @@
-Qui utilisent Python dans la ville de Québec ?
+Quelles entreprises utilisent Python dans la ville de Québec ?
 ==============================================
 
 Présentation
