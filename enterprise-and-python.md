@@ -9,17 +9,15 @@ Here are the enterprise who are using Python in Québec City.
 
 Please, just fork the repos and propose a pull request if you would like to fix something or add someone.
 
-## Pyramid + Pylons
-
-...
-
-## Django
+## Web (Pyramid, Django, Bottle, flask, etc...)
 
 * [Savoir-Faire Linux](http://www.savoirfairelinux.com)
 * [Hookt Studio](http://hooktstudios.com/)
-* [Reveal-ad.com](http://reveal-ad.com/)
+* [Libéo](http://libeo.com/)
+* [W.illi.am](http://w.illi.am/fr/)
+* [TP1](http://www.tp1.ca/)
 
-## OpenERP
+## Odoo
 
 * [Savoir-Faire Linux](http://www.savoirfairelinux.com)
 
@@ -29,7 +27,7 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 
 ## Google App Engine
 
-* [Reveal-ad.com](http://reveal-ad.com/)
+...
 
 ## Science (Numpy, MatPlotLib, etc...)
 
