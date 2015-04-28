@@ -14,6 +14,8 @@ Please, just fork the repos and propose a pull request if you would like to fix 
 * [Savoir-Faire Linux](http://www.savoirfairelinux.com)
 * [Hookt Studio](http://hooktstudios.com/)
 * [Libéo](http://libeo.com/)
+* [Cortex Média](http://cortex.bz/)
+* [Spektrum Média](http://spektrummedia.com/)
 
 ## Odoo
 
